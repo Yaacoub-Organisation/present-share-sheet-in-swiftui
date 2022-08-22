@@ -1,6 +1,6 @@
 # Present share sheet in SwiftUI
 
-This demo project is associated with my article [Present share sheet in SwiftUI](https://yaacoub.github.io/articles/swift-tip/present-share-sheet-in-swiftui/).
+This demo project is associated with my article [Present share sheet in SwiftUI](https://yaacoub.github.io/articles/swift-tip/present-share-sheet-in-swiftui).
 
 ### Availability
 
